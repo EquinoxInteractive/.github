@@ -6,8 +6,8 @@ We are a team consisting of 3 developers to make games. We actually made this ga
 ## Game Preview:
 
   <video autoplay muted loop>
-    <source src="Video/SC.mp4" type="video/mp4">
-</video>
+    <source src="profile/Video/SC.mp4" type="video/mp4">
+  </video>
 
   <img src="profile/Foto/GamePreview/Lobby.png" height="150">
   <img src="profile/Foto/GamePreview/Select.png" height="150">

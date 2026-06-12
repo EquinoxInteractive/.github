@@ -4,6 +4,11 @@ We are a team consisting of 3 developers to make games. We actually made this ga
 <div align="center">
 
 ## Game Preview:
+
+  <video autoplay muted loop>
+    <source src="Video/SC.mp4" type="video/mp4">
+  </video>
+  
   <img src="Foto/GamePreview/Lobby.png" height="150">
   <img src="Foto/GamePreview/Select.png" height="150">
   <img src="Foto/GamePreview/Selection.png" height="150">

@@ -12,13 +12,13 @@ We are a team consisting of 3 developers to make games. We actually made this ga
 
 ### Our Website:
 
-<a href="https//equinoxinteractive.vercel.app">
+<a href="https://equinoxinteractive.vercel.app">
   <img src="profile/Foto/WebsitePreveiw/EIWeb.png" height="200">
 </a>
 
 ### Our Game Website:
 
-<a href="https//boxsiege.vercel.app">
+<a href="https://boxsiege.vercel.app">
   <img src="profile/Foto/WebsitePreveiw/BSWeb.png" height="200">
 </a>
 

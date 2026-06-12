@@ -1,14 +1,9 @@
-# About Me:
+# About Us:
 We are a team consisting of 3 developers to make games. We actually made this game because we got an assignment from our teacher to make a game for one month, after one month of work we finally succeeded in making a game called Box Siege, a simple game made with Unity and C#, this game can be downloaded via our website. you can try it now
 
 <div align="center">
 
 ## Game Preview:
-
-  <video autoplay muted loop>
-    <source src="profile/Video/SC.mp4" type="video/mp4">
-  </video>
-
   <img src="profile/Foto/GamePreview/Lobby.png" height="150">
   <img src="profile/Foto/GamePreview/Select.png" height="150">
   <img src="profile/Foto/GamePreview/Selection.png" height="150">
@@ -17,13 +12,13 @@ We are a team consisting of 3 developers to make games. We actually made this ga
 
 ### Our Website:
 
-<a href="https//equinoxinteractive.vercel.ap">
+<a href="https//equinoxinteractive.vercel.app">
   <img src="profile/Foto/WebsitePreveiw/EIWeb.png" height="200">
 </a>
 
 ### Our Game Website:
 
-<a href="https//boxsiege.vercel.ap">
+<a href="https//boxsiege.vercel.app">
   <img src="profile/Foto/WebsitePreveiw/BSWeb.png" height="200">
 </a>
 

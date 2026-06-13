@@ -41,7 +41,7 @@ We are a team consisting of 3 developers to make games. We actually made this ga
 Head to the game website to download and play:
 
 ```
-https://boxsiege.vercel.app/#download
+https://boxsiege.vercel.app/
 ```
 
 No installation required — download, extract, and run.
@@ -90,6 +90,8 @@ No installation required — download, extract, and run.
 └─────────────────────────────────────────────────────────────────┘
 ```
 
+</div>
+
 ---
 
 ## Power-Up System
@@ -130,6 +132,9 @@ public class CharacterData : ScriptableObject
     public string characterName; // Used in selection UI
 }
 ```
+
+<div align="center">
+
 
 ---
 

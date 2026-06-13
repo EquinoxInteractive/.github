@@ -154,6 +154,9 @@ public class CharacterData : ScriptableObject
 
 ---
 
+</div>
+
+
 ## Project Structure
 
 ```
@@ -199,6 +202,9 @@ BoxSiege/
 └── Main Menu/
     └── Main Menu.cs
 ```
+
+<div align="center">
+
 
 ---
 

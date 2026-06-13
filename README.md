@@ -155,6 +155,9 @@ public class CharacterData : ScriptableObject
 
 ---
 
+</div>
+
+
 ## Project Structure
 
 ```
@@ -199,6 +202,8 @@ BoxSiege/
 └── Main Menu/
     └── Main Menu.cs
 ```
+
+<div align="center">
 
 ---
 
@@ -277,8 +282,8 @@ SwimmingFox:
 
 <br>
 
-*Made with dedication by Equinox Interactive — built in one month, designed to last.*
+*Made with dedication by Equinox Interactive - built in couple month, designed to last.*
 
-[⬆ Back to Top](#box-siege)
+[Back to Top](#box-siege)
 
 </div>

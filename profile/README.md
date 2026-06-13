@@ -18,8 +18,6 @@ We are a team consisting of 3 developers to make games. We actually made this ga
 
 [Website](https://equinoxinteractive.vercel.app) • [Download Game](https://boxsiege.vercel.app/#download) • [Our Team](#our-team)
 
-</div>
-
 ---
 
 ## About Box Siege

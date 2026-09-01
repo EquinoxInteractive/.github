@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="Profile/Foto/Team/Equinox.png" height="120">
+
 # Equinox Interactive
 
 **A 3-person indie game studio, started in April 2025.**
@@ -28,7 +30,7 @@ For full team biodata and each member's role/tasks, check out our **[website](ht
 
 <div align="center">
 <a href="https://boxsiege.vercel.app">
-  <img src="Foto/WebsitePreveiw/BSWeb.png" height="200">
+  <img src="profile/Foto/GamePreview/Lobby.png" height="200">
 </a>
 </div>
 
@@ -46,7 +48,7 @@ A round-based local multiplayer 2D fighting game, built with Unity and C#. 2-4 p
 <div align="center">
 
 <a href="https://badutzy.vercel.app">
-  <img src="Foto/Team/BadutZY.jpg" height="100">
+  <img src="profile/Foto/Team/BadutZY.jpg" height="100">
 </a>
 
 **BadutZY**
@@ -61,7 +63,7 @@ A round-based local multiplayer 2D fighting game, built with Unity and C#. 2-4 p
 <br>
 
 <a href="https://ariaja.pages.dev/">
-  <img src="Foto/Team/Ari.jpg" height="100">
+  <img src="profile/Foto/Team/Ari.jpg" height="100">
 </a>
 
 **Ari8Bit**
@@ -77,7 +79,7 @@ A round-based local multiplayer 2D fighting game, built with Unity and C#. 2-4 p
 <br>
 
 <a href="#">
-  <img src="Foto/Team/SwimmingFOX.jpg" height="100">
+  <img src="profile/Foto/Team/SwimmingFOX.jpg" height="100">
 </a>
 
 **SwimmingFox**
@@ -85,7 +87,7 @@ A round-based local multiplayer 2D fighting game, built with Unity and C#. 2-4 p
 [![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://www.instagram.com/swimmingfoxx_/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Marrwertz)
 
-*(Detail biodata dan tugas masing-masing anggota ada di [website kami](https://equinoxinteractive.vercel.app).)*
+*(Tugas masing-masing anggota ada di [website kami](https://equinoxinteractive.vercel.app).)*
 
 </div>
 
